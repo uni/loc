@@ -1,0 +1,1 @@
+import{h as s,a}from"./p-1f59172b.js";const o=({props:o,classes:p},c)=>s(a,Object.assign({},o,{class:p}),c);export{o as U}

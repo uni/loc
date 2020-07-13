@@ -1,0 +1,1 @@
+import{r as s,h as t}from"./p-1f59172b.js";import{U as r}from"./p-4fbe91b2.js";import"./p-9dc32dc7.js";import{u as o}from"./p-65803200.js";export{U as uni_list_mat}from"./p-65803200.js";const m=class{constructor(t){s(this,t)}render(){const s=o();return r({classes:s},t("slot",null))}};export{m as uni_list_item_mat}

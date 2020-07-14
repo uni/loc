@@ -1,6 +1,6 @@
 {
   "name": "@uni/loc",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Uni Localization Kit (build)",
   "main": "dist/loc.js",
   "module": "dist/loc/index.esm.js",

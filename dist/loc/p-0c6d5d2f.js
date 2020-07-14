@@ -1,1 +1,0 @@
-async function a(a,n){return await async function(a,n){const t=await fetch(a);return await t[n]()}(a,n)}function n(n,t,c){a(n,t).then(a=>c.emit(a))}export{a,n as u}

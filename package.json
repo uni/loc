@@ -2,12 +2,12 @@
   "name": "@uni/loc",
   "version": "0.0.2",
   "description": "Uni Localization Kit (build)",
-  "main": "dist/loc.js",
+  "main": "dist/loc.esm.js",
   "module": "dist/loc/index.esm.js",
   "es2015": "dist/loc/index.esm.js",
   "es2017": "dist/loc/index.esm.js",
-  "unpkg": "dist/loc.js",
-  "jsdelivr": "dist/loc.js",
+  "unpkg": "dist/loc.esm.js",
+  "jsdelivr": "dist/loc.esm.js",
   "files": [
     "dist/"
   ]

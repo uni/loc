@@ -1,6 +1,6 @@
 {
   "name": "@uni/loc",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Uni Localization Kit (build)",
   "main": "dist/loc.esm.js",
   "module": "dist/loc/index.esm.js",
@@ -10,5 +10,11 @@
   "jsdelivr": "dist/loc.esm.js",
   "files": [
     "dist/"
-  ]
+  ],
+  "scripts": {
+    "sync": "gulp"
+  },
+  "devDependencies": {
+    "gulp": "4.0.2"
+  }
 }

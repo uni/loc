@@ -1,0 +1,1 @@
+import{h as e,a as r}from"./p-1e3a44cd.js";import{U as t}from"./p-f6cc1057.js";const p=function({props:p,replaceProps:a},s){return t(e(r,{style:{display:"inline-flex"}},e("uni-store",Object.assign({active:!0},p,{target:"uni-replace",prop:"state"}),e("uni-replace",Object.assign({},a),s))))};export{p as U}

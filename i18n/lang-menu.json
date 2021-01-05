@@ -2,16 +2,16 @@
   {
     "lang": "en",
     "name": "English",
-    "translation": "https://cdn.jsdelivr.net/gh/uni/loc@master/i18n/english.json"
+    "translation": "https://cdn.jsdelivr.net/npm/@uiwebkit/loc@latest/i18n/english.json"
   },
   {
     "lang": "cn",
     "name": "中文",
-    "translation": "https://cdn.jsdelivr.net/gh/uni/loc@master/i18n/chinese.json"
+    "translation": "https://cdn.jsdelivr.net/npm/@uiwebkit/loc@latest/i18n/chinese.json"
   },
   {
     "lang": "ru",
     "name": "Русский",
-    "translation": "https://cdn.jsdelivr.net/gh/uni/loc@master/i18n/russian.json"
+    "translation": "https://cdn.jsdelivr.net/npm/@uiwebkit/loc@latest/i18n/russian.json"
   }
 ]

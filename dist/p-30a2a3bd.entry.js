@@ -1,0 +1,1 @@
+import{r as o,h as s}from"./p-e1afa34d.js";import{u as a}from"./p-78249524.js";import"./p-cf0d344f.js";import{U as n}from"./p-3ab2be91.js";const r=class{constructor(s){o(this,s)}render(){return n({classes:{"mdc-fab__icon":!0}},s("uni-icon-mat",null,s("slot",null)))}componentDidLoad(){a("uni-fab-icon-mat","log")}};export{r as uni_fab_icon_mat}

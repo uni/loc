@@ -1,0 +1,1 @@
+System.register(["./p-62a049dd.system.js","./p-2dea2bc9.system.js"],(function(s){"use strict";var t,e;return{setters:[function(s){t=s.h},function(s){e=s.U}],execute:function(){var n=s("U",(function(s,n){var r=s.props,a=s.classes;return e(t("button",Object.assign({},r,{class:a,"aria-disabled":r.disabled?"true":null}),n))}))}}}));

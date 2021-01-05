@@ -1,0 +1,1 @@
+import{r as o,h as a}from"./p-e1afa34d.js";import{u as n}from"./p-78249524.js";import{U as r}from"./p-cf0d344f.js";const t=class{constructor(a){o(this,a)}render(){return r(a("uni-icon-button-mat",{class:{"mdc-top-app-bar__navigation-icon":!0}},a("slot",null)))}componentDidLoad(){n("uni-header-nav-icon-mat","scroll")}};export{t as uni_header_nav_icon_mat}

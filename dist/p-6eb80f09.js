@@ -1,1 +1,0 @@
-import{h as s,a as c}from"./p-1e3a44cd.js";import{U as o}from"./p-f6cc1057.js";const r=function({props:r,classes:a},p){return s(c,Object.assign({},r,{class:a}),o(p))};export{r as U}

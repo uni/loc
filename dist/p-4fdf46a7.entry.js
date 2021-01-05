@@ -1,0 +1,1 @@
+import{r as o}from"./p-e1afa34d.js";import{u as t}from"./p-78249524.js";import"./p-cf0d344f.js";import{U as s}from"./p-3ab2be91.js";const a=class{constructor(t){o(this,t),this.dataId="uni-dialog-content"}render(){return s({props:{id:this.dataId},classes:{"mdc-dialog__content":!0}})}componentDidLoad(){t("uni-dialog-content-mat","disabled")}};export{a as uni_dialog_content_mat}

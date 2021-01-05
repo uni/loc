@@ -1,0 +1,1 @@
+import{r as s}from"./p-e1afa34d.js";import{u as t}from"./p-78249524.js";import"./p-cf0d344f.js";import{U as r}from"./p-3ab2be91.js";const a=class{constructor(t){s(this,t)}render(){return r({classes:{"mdc-drawer__subtitle":!0}})}componentDidLoad(){t("uni-aside-subtitle-mat","width")}};export{a as uni_aside_subtitle_mat}

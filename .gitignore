@@ -6,6 +6,7 @@
 *.tmp
 *.tmp.*
 log.txt
+gulpfile.js
 *.sublime-project
 *.sublime-workspace
 

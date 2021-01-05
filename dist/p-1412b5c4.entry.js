@@ -1,0 +1,1 @@
+import{r}from"./p-e1afa34d.js";import{u as t}from"./p-78249524.js";import"./p-cf0d344f.js";import{U as o}from"./p-3ab2be91.js";const p=class{constructor(t){r(this,t)}render(){return o({classes:{"mdc-button__ripple":!0}})}componentDidLoad(){t("uni-button-ripple-mat","number")}};export{p as uni_button_ripple_mat}

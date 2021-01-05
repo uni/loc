@@ -1,0 +1,1 @@
+import{r as o}from"./p-e1afa34d.js";import{u as r}from"./p-78249524.js";const t=class{constructor(r){o(this,r)}componentDidLoad(){r("uni-router-navigate","color")}};export{t as uni_router_navigate}

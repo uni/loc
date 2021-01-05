@@ -1,0 +1,1 @@
+const e={mini:"mdc-fab--mini",extended:"mdc-fab--extended"},a=Object.assign({fab:"mdc-fab",exited:"mdc-fab--exited",ripple:"mdc-fab__ripple",label:"mdc-fab__label",icon:"mdc-fab__icon"},e);export{a as U,e as a}

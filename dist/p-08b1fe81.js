@@ -1,0 +1,1 @@
+import{u as n,a}from"./p-1f16e2cb.js";function t(a,t,u,o){a&&n(a,t,o).then((n=>u.emit(n)))}function u(n,t,u,o){(async function(n,t,u){const o=function(n){return(n.querySelector("a")||{}).href||""}(n);return o?await a(o,t,u):null})(n,t,o).then((n=>u.emit(n)))}export{u as a,t as u}

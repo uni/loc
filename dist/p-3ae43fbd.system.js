@@ -1,0 +1,1 @@
+System.register(["./p-f5b7c044.system.js"],(function(t){"use strict";var n;return{setters:[function(t){n=t.i}],execute:function(){t("u",e);function e(t){var e=u(t);if(!n(e)){i(t)}return e||null}function u(t){return t===null||t===void 0?void 0:t.textContent}function i(t){t.textContent=""}}}}));

@@ -2,6 +2,7 @@
   "name": "@uni/loc",
   "version": "0.0.3",
   "description": "Uni Localization Kit (build)",
+  "author": "UiWebKit",
   "main": "dist/loc.esm.js",
   "module": "dist/loc/index.esm.js",
   "es2015": "dist/loc/index.esm.js",

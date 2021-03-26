@@ -1,17 +1,17 @@
 [
   {
-    "lang": "en",
+    "flag": "en",
     "name": "English",
-    "translation": "https://cdn.jsdelivr.net/npm/@uiwebkit/loc@latest/i18n/english.json"
+    "translation": "https://uni.github.io/loc/i18n/english.json"
   },
   {
-    "lang": "cn",
+    "flag": "cn",
     "name": "中文",
-    "translation": "https://cdn.jsdelivr.net/npm/@uiwebkit/loc@latest/i18n/chinese.json"
+    "translation": "https://uni.github.io/loc/i18n/chinese.json"
   },
   {
-    "lang": "ru",
+    "flag": "ru",
     "name": "Русский",
-    "translation": "https://cdn.jsdelivr.net/npm/@uiwebkit/loc@latest/i18n/russian.json"
+    "translation": "https://uni.github.io/loc/i18n/russian.json"
   }
 ]

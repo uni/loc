@@ -17,7 +17,7 @@
   "scripts": {
     "sync": "gulp",
     "pack": "npm pack",
-    "publish": "npm publish --public"
+    "publish": "npm publish --access public"
   },
   "devDependencies": {
     "gulp": "4.0.2"

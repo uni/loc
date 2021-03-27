@@ -1,8 +1,38 @@
 [
   {
-    "flag": "en",
+    "flag": "gb",
     "name": "English",
     "translation": "https://uni.github.io/loc/i18n/english.json"
+  },
+  {
+    "flag": "es",
+    "name": "Española",
+    "translation": "https://uni.github.io/loc/i18n/spanish.json"
+  },
+  {
+    "flag": "pt",
+    "name": "Portugues",
+    "translation": "https://uni.github.io/loc/i18n/portuguese.json"
+  },
+  {
+    "flag": "fr",
+    "name": "Française",
+    "translation": "https://uni.github.io/loc/i18n/french.json"
+  },
+  {
+    "flag": "de",
+    "name": "Deutsche",
+    "translation": "https://uni.github.io/loc/i18n/german.json"
+  },
+  {
+    "flag": "it",
+    "name": "Italiana",
+    "translation": "https://uni.github.io/loc/i18n/italian.json"
+  },
+  {
+    "flag": "ru",
+    "name": "Русский",
+    "translation": "https://uni.github.io/loc/i18n/russian.json"
   },
   {
     "flag": "cn",
@@ -10,8 +40,13 @@
     "translation": "https://uni.github.io/loc/i18n/chinese.json"
   },
   {
-    "flag": "ru",
-    "name": "Русский",
-    "translation": "https://uni.github.io/loc/i18n/russian.json"
+    "flag": "jp",
+    "name": "日本語",
+    "translation": "https://uni.github.io/loc/i18n/japanese.json"
+  },
+  {
+    "flag": "kr",
+    "name": "한국어",
+    "translation": "https://uni.github.io/loc/i18n/korean.json"
   }
 ]

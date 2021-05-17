@@ -24,12 +24,12 @@ There are two strategies we recommend for using Uni Localization:
 
 ### Script tag
 
-- Put a script tag `<script type="module" src="https://cdn.jsdelivr.net/npm/@uiwebkit/loc@latest/dist/loc/loc.esm.js"></script>` in the head of your index.html
-- To support old browsers, also put a script tag `<script nomodule src="https://cdn.jsdelivr.net/npm/@uiwebkit/loc@latest/dist/loc/loc.js"></script>` in the head of your index.html
+- Put a script tag `<script type="module" src="https://cdn.jsdelivr.net/npm/@uiwebkit/loc@latest/dist/loc.esm.js"></script>` in the head of your index.html
+- To support old browsers, also put a script tag `<script nomodule src="https://cdn.jsdelivr.net/npm/@uiwebkit/loc@latest/dist/loc.js"></script>` in the head of your index.html
 - Then you can use the element anywhere in your template, JSX, html etc
 
 ### Node Modules
 - Run `npm i @uiwebkit/loc --save`
-- Put a script tag similar to this `<script type="module" src="node_modules/@uiwebkit/loc/dist/loc/loc.esm.js"></script>` in the head of your index.html
-- To support old browsers, also put a script tag `<script nomodule src="node_modules/@uiwebkit/loc/dist/loc/loc.js"></script>` in the head of your index.html
+- Put a script tag similar to this `<script type="module" src="node_modules/@uiwebkit/loc/dist/loc.esm.js"></script>` in the head of your index.html
+- To support old browsers, also put a script tag `<script nomodule src="node_modules/@uiwebkit/loc/dist/loc.js"></script>` in the head of your index.html
 - Then you can use the element anywhere in your template, JSX, html etc

@@ -1,1 +1,0 @@
-import{a}from"./p-565580e1.js";function r(r){return"true"===r||""===r||"false"!==r&&(isNaN(parseFloat(r))?"null"===r?null:a(r)?JSON.parse(r):r:parseFloat(r))}export{r as g}

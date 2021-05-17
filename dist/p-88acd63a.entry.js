@@ -1,1 +1,0 @@
-import{r}from"./p-e1afa34d.js";import"./p-cf0d344f.js";import{U as s}from"./p-3ab2be91.js";import{u as t}from"./p-edb6d673.js";const a=class{constructor(s){r(this,s)}render(){const r=t();return s({classes:r})}};export{a as uni_header_action_item_mat_wrap}

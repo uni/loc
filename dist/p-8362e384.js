@@ -1,0 +1,1 @@
+function d(d){return{"mdc-card__media":!0,"mdc-card__media--16-9":!d,"mdc-card__media--square":d}}export{d as u}

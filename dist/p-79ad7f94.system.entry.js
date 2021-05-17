@@ -1,1 +1,0 @@
-System.register(["./p-62a049dd.system.js","./p-a821f331.system.js"],(function(t){"use strict";var n,e;return{setters:[function(t){n=t.r},function(t){e=t.u}],execute:function(){var r=t("uni_router_navigate",function(){function t(t){n(this,t)}t.prototype.componentDidLoad=function(){e("uni-router-navigate","color")};return t}())}}}));

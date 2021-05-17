@@ -1,0 +1,1 @@
+import{u as r}from"./p-8e1a1be0.js";function a(a,o,e,p,s){Array.from(r(a,p,s)).forEach((r=>{r&&(r[o]=e)}))}export{a as u}

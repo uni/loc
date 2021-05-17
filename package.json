@@ -1,8 +1,8 @@
 {
   "name": "@uiwebkit/loc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Uni Localization (build)",
-  "author": "UiWebKit",
+  "author": "Vitalii Havryliuk",
   "main": "dist/loc.esm.js",
   "module": "dist/loc/index.esm.js",
   "es2015": "dist/loc/index.esm.js",
@@ -26,6 +26,6 @@
     "type": "git",
     "url": "https://github.com/uni/loc.git"
   },
-  "homepage": "https://uiwebkit.com/?category=loc",
+  "homepage": "https://uiwebkit.com/wgt/loc/1/",
   "license": "CC-BY-4.0"
 }

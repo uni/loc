@@ -1,1 +1,0 @@
-import{M as n}from"./p-238c1d1d.js";function o(o,r=!1){const t=new n(o);return t.unbounded=r,t}export{o as u}

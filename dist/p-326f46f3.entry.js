@@ -1,1 +1,0 @@
-import{r as s}from"./p-e1afa34d.js";import{u as r}from"./p-78249524.js";import"./p-cf0d344f.js";import{U as a}from"./p-3ab2be91.js";const i=class{constructor(r){s(this,r)}render(){return a({classes:{"mdc-drawer-scrim":!0}})}componentDidLoad(){r("uni-aside-scrim-mat","padding")}};export{i as uni_aside_scrim_mat}

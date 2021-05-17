@@ -1,0 +1,1 @@
+System.register([],(function(t){"use strict";return{execute:function(){t({a:c,u:u});var n={toggle:"mdc-icon-button__icon",active:"mdc-icon-button__icon--on"};var o=Object.assign({button:"mdc-icon-button",pro:"uni-icon-button-pro"},n);function u(t){var n;return n={},n[o.button]=true,n[o.pro]=t,n}function c(t){var o;return o={},o[n.toggle]=true,o[n.active]=t,o}}}}));

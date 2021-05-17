@@ -1,1 +1,0 @@
-import{r as s}from"./p-e1afa34d.js";import{u as t}from"./p-78249524.js";import"./p-cf0d344f.js";import{U as o}from"./p-3ab2be91.js";import"./p-82378d10.js";import{c as r}from"./p-df175568.js";const m=class{constructor(t){s(this,t)}render(){const s=r();return o({classes:s})}componentDidLoad(){t("uni-list-item-meta-mat","allow")}};export{m as uni_list_item_meta_mat}

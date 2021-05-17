@@ -1,1 +1,0 @@
-import{r as t,h as o}from"./p-e1afa34d.js";import{u as r}from"./p-78249524.js";import{U as s}from"./p-cf0d344f.js";import{u as a}from"./p-edb6d673.js";const i=class{constructor(o){t(this,o)}render(){const t=a();return s(o("uni-icon-button-mat",{class:t},o("slot",null)))}componentDidLoad(){r("uni-header-action-item-mat","init")}};export{i as uni_header_action_item_mat}

@@ -1,1 +1,0 @@
-import{h as t}from"./p-e1afa34d.js";import{U as n}from"./p-9b7aebab.js";const r=({props:n,classes:r,per:o},s)=>{const e=o?"uni-button-ripple-mat-"+o:"uni-button-ripple-mat";return t("button",Object.assign({},n,{class:r}),t(e,null),s)};function o(t){return Object.assign({[n.button]:!0},function(t){return{[n[t]]:!!n[t]}}(t))}export{r as U,o as u}

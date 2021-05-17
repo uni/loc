@@ -1,0 +1,1 @@
+import{r}from"./p-ac3aee25.js";import{u as s}from"./p-8bc8fc2e.js";import"./p-270d5dc7.js";import{U as o}from"./p-69a7b0e9.js";const t=class{constructor(s){r(this,s)}render(){return o({classes:{"mdc-drawer__content":!0}})}componentDidLoad(){s("uni-aside-content","margin")}};export{t as uni_aside_content_wrap}

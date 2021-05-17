@@ -1,0 +1,1 @@
+function $($,a,n="",o=""){a&&""!==a&&$.classList.add(`${n}${a}${o}`)}export{$ as a}

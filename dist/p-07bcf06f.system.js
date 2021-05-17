@@ -1,1 +1,0 @@
-var __spreadArrays=this&&this.__spreadArrays||function(){for(var r=0,t=0,e=arguments.length;t<e;t++)r+=arguments[t].length;for(var n=Array(r),a=0,t=0;t<e;t++)for(var s=arguments[t],u=0,i=s.length;u<i;u++,a++)n[a]=s[u];return n};System.register([],(function(r){"use strict";return{execute:function(){var t=r("F",(function(r,t){return __spreadArrays(t)}))}}}));

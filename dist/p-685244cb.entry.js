@@ -1,1 +1,0 @@
-import{r as s,g as t}from"./p-e1afa34d.js";import{u as o,a}from"./p-bd8692c1.js";const l=class{constructor(t){s(this,t),this.all=!1}componentWillLoad(){var s;const{el:t,selector:l,all:r}=this;o({el:t,selector:l,all:r},null===(s=this.classes)||void 0===s?void 0:s.split(" "),a)}get el(){return t(this)}};export{l as uni_wrap}

@@ -1,1 +1,0 @@
-import{r as o,h as r}from"./p-e1afa34d.js";import{u as s}from"./p-78249524.js";import"./p-cf0d344f.js";import{U as t}from"./p-3ab2be91.js";const a=class{constructor(r){o(this,r)}render(){return t({classes:{"mdc-layout-grid__inner":!0}},r("slot",null))}componentDidLoad(){s("uni-layout-row-mat","shadow")}};export{a as uni_layout_row_mat}

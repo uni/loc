@@ -1,0 +1,1 @@
+import{r}from"./p-ac3aee25.js";import{u as s}from"./p-8bc8fc2e.js";import"./p-270d5dc7.js";import{U as o}from"./p-69a7b0e9.js";import"./p-5695a8c1.js";import{a as t}from"./p-74556483.js";const a=class{constructor(s){r(this,s)}render(){const r=t();return o({classes:r})}componentDidLoad(){s("uni-list-item-graphic","agree")}};export{a as uni_list_item_graphic_wrap}

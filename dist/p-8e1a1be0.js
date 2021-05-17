@@ -1,0 +1,1 @@
+function e(e,o,n){const t=o?n?e.querySelectorAll(n):e.children:n?[e.querySelector(n)]:[e.firstElementChild];return t&&t[0]||(console.error("No Element target: "+n),console.warn("For Element",e)),t}export{e as u}

@@ -1,1 +1,0 @@
-import{r as t}from"./p-e1afa34d.js";import{u as i}from"./p-78249524.js";import"./p-cf0d344f.js";import{U as o}from"./p-3ab2be91.js";const s=class{constructor(i){t(this,i),this.dataId="uni-dialog-title"}render(){return o({props:{id:this.dataId},classes:{"mdc-dialog__title":!0}})}componentDidLoad(){i("uni-dialog-title-mat","id")}};export{s as uni_dialog_title_mat}

@@ -1,0 +1,1 @@
+function n(){return{"mdc-top-app-bar__navigation-icon":!0}}export{n as u}

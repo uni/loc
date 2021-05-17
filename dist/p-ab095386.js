@@ -1,1 +1,0 @@
-import{i as n}from"./p-bd8692c1.js";function o(o){const t=function(n){return null==n?void 0:n.textContent}(o);return n(t)||function(n){n.textContent=""}(o),t||null}export{o as u}

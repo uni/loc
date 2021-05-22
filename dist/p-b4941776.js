@@ -1,1 +1,0 @@
-import{e as a,b as e,f as s}from"./p-add61eea.js";function r(r){return"true"===r||"false"!==r&&("null"===r?null:isNaN(parseFloat(r))?a(r)?JSON.parse(r):e(r)?Object.assign({},r):s(r)?[...r]:r:parseFloat(r))}export{r as g}

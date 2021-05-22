@@ -1,0 +1,1 @@
+import{u as n}from"./p-495ffa9e.js";async function a(n,a,t){const c=await fetch(n,t);return await c[a]()}function t(n,t,c,u){n&&async function(n,t,c){return await a(n,t,c)}(n,t,u).then((n=>c.emit(n)))}function c(t,c,u,f){(async function(t,c,u){const f=n(t,"a","href");return f?await a(f,c,u):null})(t,c,f).then((n=>u.emit(n)))}export{c as a,t as u}

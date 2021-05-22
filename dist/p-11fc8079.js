@@ -1,0 +1,1 @@
+function i(i,n){return{"uni-display-active":i&&!n,"uni-display-flex":i&&n,"uni-display-none":!i}}export{i as u}

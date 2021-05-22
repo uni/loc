@@ -1,6 +1,6 @@
 {
   "name": "@uiwebkit/loc",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Uni Localization (build)",
   "author": "Vitalii Havryliuk",
   "main": "dist/loc.esm.js",

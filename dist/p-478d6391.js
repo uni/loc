@@ -1,0 +1,1 @@
+import{f as a,b as e,g as s}from"./p-e87a614e.js";function r(r){return"true"===r||"false"!==r&&("null"===r?null:isNaN(parseFloat(r))?a(r)?JSON.parse(r):e(r)?Object.assign({},r):s(r)?[...r]:r:parseFloat(r))}export{r as u}

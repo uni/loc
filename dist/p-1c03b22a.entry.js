@@ -1,1 +1,0 @@
-import{r as s,h as r}from"./p-ac3aee25.js";import"./p-270d5dc7.js";import{U as o}from"./p-69a7b0e9.js";import{u as t}from"./p-20a10e19.js";const a=class{constructor(r){s(this,r)}render(){const s=t();return o({classes:s},r("slot",null))}};export{a as uni_header_action_item_wrap}

@@ -1,1 +1,0 @@
-import{r as o,h as s}from"./p-ac3aee25.js";import{u as e}from"./p-8bc8fc2e.js";import"./p-270d5dc7.js";import"./p-b38574b4.js";import{a as r}from"./p-58da7a47.js";const t=class{constructor(s){o(this,s)}render(){return r({},s("slot",null))}componentDidLoad(){e("uni-select-label","complete")}};export{t as uni_select_label}

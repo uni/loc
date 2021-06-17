@@ -1,1 +1,0 @@
-import{r}from"./p-ac3aee25.js";import{u as p}from"./p-8bc8fc2e.js";import"./p-270d5dc7.js";import{U as s}from"./p-69a7b0e9.js";const o=class{constructor(p){r(this,p)}render(){return s({classes:{"mdc-fab__ripple":!0}})}componentDidLoad(){p("uni-fab-ripple","mouseup")}};export{o as uni_fab_ripple}

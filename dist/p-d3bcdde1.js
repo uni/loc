@@ -1,0 +1,1 @@
+import{u as a}from"./p-cafcfad3.js";function r(r,f,o,c,p){Array.from(a(r,c,p)).forEach((a=>{a&&(a[f]=o)}))}export{r as u}

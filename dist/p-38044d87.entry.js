@@ -1,0 +1,1 @@
+import{r as s}from"./p-22eccc22.js";import{u as o}from"./p-78249524.js";import{U as r}from"./p-3ee8c433.js";import"./p-cf0d344f.js";const a=class{constructor(o){s(this,o)}render(){return r({classes:{"mdc-fab__label":!0}})}componentDidLoad(){o("uni-fab-label","load")}};export{a as uni_fab_label}

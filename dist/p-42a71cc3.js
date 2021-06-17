@@ -1,1 +1,0 @@
-const d={drawer:"mdc-drawer",header:"mdc-drawer__header",content:"mdc-drawer__content",title:"mdc-drawer__title",subtitle:"mdc-drawer__subtitle",dismissible:"mdc-drawer--dismissible",modal:"mdc-drawer--modal",appContent:"mdc-drawer-app-content",scrim:"mdc-drawer-scrim",adjustStart:"uni-aside__app-content-adjust-start"};export{d as U}

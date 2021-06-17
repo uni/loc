@@ -1,0 +1,1 @@
+import{U as n}from"./p-f63cc705.js";function r(r){return{[n.tab]:!0,[n.active]:!!r}}function t(){return{[n.tabContent]:!0}}function u(){return{[n.tabRipple]:!0}}function c(r){return{[n.tabIndicator]:!0,[n.indicatorActive]:!!r}}function o(){return{[n.tabIndicatorContent]:!0,[n.tabIndicatorContentUnderline]:!0}}export{c as a,o as b,t as c,u as d,r as u}

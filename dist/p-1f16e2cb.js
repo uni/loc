@@ -1,0 +1,1 @@
+async function a(a,t,n){const c=await fetch(a,n);return await c[t]()}async function t(t,n,c){return await a(t,n,c)}export{a,t as u}

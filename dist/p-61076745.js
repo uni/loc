@@ -1,1 +1,0 @@
-function n(){return{"mdc-fab__icon":!0}}export{n as u}

@@ -1,1 +1,0 @@
-System.register([],(function(e){"use strict";return{execute:function(){e("u",r);function r(e){return{"mdc-card__media":true,"mdc-card__media--16-9":!e,"mdc-card__media--square":e}}}}}));

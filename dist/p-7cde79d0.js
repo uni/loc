@@ -1,1 +1,0 @@
-import{h as s}from"./p-ac3aee25.js";const a=({classes:a},e)=>s("button",{class:a},s("uni-fab-ripple",null),e);export{a as U}

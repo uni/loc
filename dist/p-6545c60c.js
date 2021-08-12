@@ -1,0 +1,1 @@
+import{d as a,a as s,b as r}from"./p-f8ca667b.js";function t(t){return"true"===t||"false"!==t&&("null"===t?null:isNaN(parseFloat(t))?a(t)?JSON.parse(t):s(t)?Object.assign({},t):r(t)?[...t]:t:parseFloat(t))}export{t as u}

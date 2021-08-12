@@ -1,6 +1,6 @@
 {
   "name": "@uiwebkit/loc",
-  "version": "0.1.0",
+  "version": "0.2.3",
   "description": "Uni Localization (build)",
   "license": "CC-BY-4.0",
   "author": "Vitalii Havryliuk",
@@ -18,7 +18,7 @@
   "scripts": {
     "sync": "gulp",
     "pack": "npm pack",
-    "publish": "npm publish uiwebkit-loc-0.1.0.tgz --access public"
+    "publish": "npm publish uiwebkit-loc-0.2.3.tgz --access public"
   },
   "devDependencies": {
     "gulp": "4.0.2"

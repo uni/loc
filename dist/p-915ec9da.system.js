@@ -1,1 +1,0 @@
-System.register(["./p-0db4adc1.system.js"],(function(t){"use strict";var n;return{setters:[function(t){n=t.a}],execute:function(){t("u",e);function e(t){var n=u(t);r(t);return n||null}function u(t){return t===null||t===void 0?void 0:t.textContent.trim()}function r(t){if(n(t)){t.textContent=""}}}}}));

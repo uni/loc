@@ -1,0 +1,1 @@
+import{a as n,b as r}from"./p-875c4e49.js";function a(r){return new n(r)}function e(n){return new r(n)}export{e as a,a as u}

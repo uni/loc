@@ -1,0 +1,1 @@
+import{a as t}from"./p-31a9a9fe.js";function n(n,u,e){return Object.assign(Object.assign({"mdc-button":!0,"uni-button":n},function(t){return{"mdc-button--outlined":"outlined"===t,"mdc-button--unelevated":"flat"===t,"mdc-button--raised":"raised"===t}}(u)),t(e))}export{n as u}

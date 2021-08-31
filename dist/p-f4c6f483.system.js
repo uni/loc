@@ -1,0 +1,1 @@
+System.register(["./p-c01ec2cc.system.js"],(function(e){"use strict";var t,n;return{setters:[function(e){t=e.a;n=e.b}],execute:function(){e({a:r,u:c});function c(e){return new t(e)}function r(e){return new n(e)}}}}));

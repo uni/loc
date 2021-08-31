@@ -1,1 +1,0 @@
-import{r as s,g as t}from"./p-22eccc22.js";import{u as e}from"./p-18a83605.js";import"./p-891c8e03.js";import"./p-d6c0869d.js";const p=class{constructor(t){s(this,t),this.all=!1}componentWillLoad(){const{el:s,speed:t,steps:p,selector:o,all:r}=this;e({el:s,spin:!0,speed:t,steps:p,selector:o,all:r})}get el(){return t(this)}};export{p as uni_spin_wrap}

@@ -1,15 +1,18 @@
 [
   {
+    "lang": "en", 
     "flag": "gb",
     "name": "English",
     "translation": "https://uni.github.io/loc/i18n/english.json"
   },
   {
+    "lang": "es", 
     "flag": "es",
     "name": "Española",
     "translation": "https://uni.github.io/loc/i18n/spanish.json"
   },
   {
+    "lang": "ru", 
     "flag": "ru",
     "name": "Русский",
     "translation": "https://uni.github.io/loc/i18n/russian.json"

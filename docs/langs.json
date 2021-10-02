@@ -1,0 +1,17 @@
+[
+  {
+    "lang": "en",
+    "name": "English",
+    "translation": "https://uni.github.io/loc/english.json"
+  },
+  {
+    "lang": "es",
+    "name": "Española",
+    "translation": "https://uni.github.io/loc/spanish.json"
+  },
+  {
+    "lang": "ru",
+    "name": "Русский",
+    "translation": "https://uni.github.io/loc/russian.json"
+  }
+]

@@ -3,6 +3,7 @@
 # Uni Localization
 
 Uni Localization is a set of Web Components & Custom Elements to use localization and translations in declarative style.
+You can customize it for the all 100% and do it absolutely for FREE!
 
 Uni Localization elements have three modes:
 1. Custom Element - `100%` convenience;
